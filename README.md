@@ -12,13 +12,11 @@ singly linked list and file handling.
 - student.h : structure and function declarations
 - main.c : menu and exit
 - stud_add.c, stud_del.c, stud_show.c, stud_mod.c : operations
--stud_load.c : load the data
--stud_exit : exit the program
 - stud_save.c : save and load using fprintf and fscanf
 - stud_sort.c : sort by name or percentage
 
 ## How to compile and run
-gcc main.c stud_add.c stud_del.c stud_show.c stud_mod.c stud_load.c stud_exit.c stud_save.c stud_sort.c -o student
+gcc main.c stud_add.c stud_del.c stud_show.c stud_mod.c stud_save.c stud_sort.c -o student
 ./student
 
 ## Author
