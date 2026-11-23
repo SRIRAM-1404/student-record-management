@@ -47,7 +47,6 @@ while(fscanf(fp,"%d%s%f",&r,n,&p)==3)
 	else
 	{
 		last->next=new;
-		last=new;
 	}
 	last=new;	
 }
