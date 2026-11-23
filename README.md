@@ -11,7 +11,7 @@ singly linked list and file handling.
 ## Files
 - student.h : structure and function declarations
 - main.c : menu and exit
-- stud_add.c, stud_del.c, stud_show.c, stud_mod.c : operations
+- operations : stud_add.c, stud_del.c, stud_show.c, stud_mod.c 
 - stud_save.c : save and load using fprintf and fscanf
 - stud_sort.c : sort by name or percentage
 
