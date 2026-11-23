@@ -22,7 +22,6 @@ int main()
 {
 	NODE *hptr=NULL;
 	char op;
-	//load old records from the file
 	stud_load(&hptr);
 	while(1)
 	{
